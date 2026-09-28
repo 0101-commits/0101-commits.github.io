@@ -16,4 +16,4 @@ GitHub Pages **사용자 루트 사이트**(`https://0101-commits.github.io/`)�
 ## 공개 범위(Visibility) 주의
 
 - 이 저장소에는 민감정보가 없습니다(리다이렉트 HTML 1개).
-- private으로 전환하면 GitHub Free 플랜에서는 Pages가 중단되어 카카오 링크가 404가 됩니다. **public 유지를 권장합니다.**
+- 2026-09-28 private 전환 결정. GitHub Free 플랜에서는 Pages가 중단되어 카카오 링크가 404가 되고, Pro 이상에서는 Pages가 유지되며 사이트는 공개 상태로 남습니다.
